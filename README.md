@@ -21,7 +21,7 @@ when you run the GUI without a Hub, the task count specifies the number of trans
 - export-token.csv ---- real transaction history about ETC
 - orders.csv ---- real transaction history about bitcoin
 
-libs folder has all the dependencies
+*libs folder* has all the dependencies
 
 log folder stores the detailed exection not the ouput results
 
